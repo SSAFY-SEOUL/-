@@ -9,6 +9,9 @@ int n = 0;
 
 int main()
 {
+	int dx[4] = { -1, 1, 0, 0 };
+	int dy[4] = { 0, 0, -1, 1 };
+
 	int max = 0;
 	std::cin >> n;
 	for (int i = 1; i <= n; ++i)
@@ -25,9 +28,9 @@ int main()
 		for (int j = 1; j <= n; ++j)
 		{
 			tmp = checkRow(i, j);
-			max = max > tmp ? max: tmp;
+			max = max > tmp ? max : tmp;
 			tmp = checkCol(i, j);
-			max = max > tmp ? max: tmp;
+			max = max > tmp ? max : tmp;
 		}
 	}
 
@@ -35,37 +38,15 @@ int main()
 	{
 		for (int j = 1; j <= n; ++j)
 		{
-			// left
-			swap(i, j, i - 1, j);
-			tmp = checkRow(i, j);
-			max = max > tmp ? max : tmp;
-			tmp = checkCol(i, j);
-			max = max > tmp ? max : tmp;
-			swap(i, j, i - 1, j);
-
-			// right
-			swap(i, j, i + 1, j);
-			tmp = checkRow(i, j);
-			max = max > tmp ? max : tmp;
-			tmp = checkCol(i, j);
-			max = max > tmp ? max : tmp;
-			swap(i, j, i + 1, j);
-
-			// up
-			swap(i, j, i, j - 1);
-			tmp = checkRow(i, j);
-			max = max > tmp ? max : tmp;
-			tmp = checkCol(i, j);
-			max = max > tmp ? max : tmp;
-			swap(i, j, i, j - 1);
-
-			// down
-			swap(i, j, i, j + 1);
-			tmp = checkRow(i, j);
-			max = max > tmp ? max : tmp;
-			tmp = checkCol(i, j);
-			max = max > tmp ? max : tmp;
-			swap(i, j, i, j + 1);
+			for (int k = 0; k < 4; ++k)
+			{
+				swap(i, j, i + dx[k], j + dy[k]);
+				tmp = checkRow(i, j);
+				max = max > tmp ? max : tmp;
+				tmp = checkCol(i, j);
+				max = max > tmp ? max : tmp;
+				swap(i, j, i + dx[k], j + dy[k]);
+			}
 		}
 	}
 

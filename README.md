@@ -9,3 +9,5 @@
 | 4 | boj | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3085.cpp) |
 | 5 | boj | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | `그리디` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11047.cpp) |
 | 5 | boj | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | `자료 구조` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2531.cpp) |
+| 6 | boj | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | `분할 정복` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.java) |
+| 6 | boj | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.java) |

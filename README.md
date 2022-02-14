@@ -11,3 +11,5 @@
 | 5 | boj | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | `자료 구조` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2531.cpp) |
 | 6 | boj | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | `분할 정복` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.java) |
 | 6 | boj | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.java) |
+| 7 | boj | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | `그래프 순회` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5639.java) |
+| 7 | boj | 18222 | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | `분할 정복` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_18222.java) |

@@ -1,5 +1,3 @@
-package com.ssafy.boj;
-
 import java.util.Scanner;
 
 public class Main {

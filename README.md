@@ -13,5 +13,5 @@
 | 6 | boj | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.java) |
 | 7 | boj | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | `그래프 순회` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5639.java) |
 | 7 | boj | 18222 | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | `분할 정복` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_18222.java) |
-| 8 | boj | 14502 | [연구소](https://www.acmicpc.net/problem/10425) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14502.java) |
+| 8 | boj | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14502.java) |
 | 8 | boj | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11725.java) |

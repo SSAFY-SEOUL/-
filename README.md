@@ -15,3 +15,6 @@
 | 7 | boj | 18222 | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | `분할 정복` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_18222.java) |
 | 8 | boj | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14502.java) |
 | 8 | boj | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11725.java) |
+| 9 | boj | 3055 | [탈출](https://www.acmicpc.net/problem/3055) | `시뮬레이션`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3055.java) |
+| 9 | boj | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `순열`, `백트래킹` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_15666.java) |
+| 9 | boj | 1199 | [오일러 회로](https://www.acmicpc.net/problem/1199) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1199.java) |

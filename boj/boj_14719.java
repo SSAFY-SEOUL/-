@@ -1,8 +1,6 @@
-package com.ssafy.swea;
-
 import java.util.Scanner;
 
-public class Solution {
+public class Main {
 	
 	public static int[] b;
 	

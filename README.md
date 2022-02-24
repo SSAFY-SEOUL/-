@@ -18,3 +18,5 @@
 | 9 | boj | 3055 | [탈출](https://www.acmicpc.net/problem/3055) | `시뮬레이션`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3055.java) |
 | 9 | boj | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `순열`, `백트래킹` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_15666.java) |
 | 9 | boj | 1199 | [오일러 회로](https://www.acmicpc.net/problem/1199) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1199.java) |
+| 10 | boj | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | `시뮬레이션` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14719.java) |
+| 10 | boj | 24512 | [BTSP](https://www.acmicpc.net/problem/24512) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_24512.java) |

@@ -20,3 +20,7 @@
 | 9 | boj | 1199 | [오일러 회로](https://www.acmicpc.net/problem/1199) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1199.java) |
 | 10 | boj | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | `시뮬레이션` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14719.java) |
 | 10 | boj | 24512 | [BTSP](https://www.acmicpc.net/problem/24512) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_24512.java) |
+| 11 | boj | 1175 | [배달](https://www.acmicpc.net/problem/1175) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1175.java) |
+| 12 | boj | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2206.java) |
+| 12 | boj | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_12865.java) |
+| 12 | programmers | | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | `구현` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_신고결과받기.java) |

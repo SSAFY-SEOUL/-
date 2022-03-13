@@ -1,28 +1,32 @@
 | 회차 | 구분 | 번호 | 제목 | 분류 | 풀이 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | boj | 10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10819.cpp) |
-| 2 | boj | 1065 | [한수](https://www.acmicpc.net/problem/1065) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1065.cpp) |
-| 2 | boj | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | `완전 탐색`, `BFS` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2589.cpp) |
+| 1 | boj | 10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10819.cpp) |
+| 2 | boj | 1065 | [한수](https://www.acmicpc.net/problem/1065) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1065.cpp) |
+| 2 | boj | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2589.cpp) |
 | 3 | boj | 19622 | [회의실 배정 3](https://www.acmicpc.net/problem/19622) | `DP` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_19622.cpp) |
-| 3 | boj | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1260.cpp) |
+| 3 | boj | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1260.cpp) |
 | 4 | boj | 1965 | [상자넣기](https://www.acmicpc.net/problem/1965) | `DP` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1965.cpp) |
-| 4 | boj | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3085.cpp) |
-| 5 | boj | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | `그리디` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11047.cpp) |
-| 5 | boj | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | `자료 구조` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2531.cpp) |
-| 6 | boj | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | `분할 정복` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.java) |
-| 6 | boj | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `완전 탐색` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.java) |
-| 7 | boj | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | `그래프 순회` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5639.java) |
-| 7 | boj | 18222 | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | `분할 정복` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_18222.java) |
-| 8 | boj | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14502.java) |
-| 8 | boj | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11725.java) |
-| 9 | boj | 3055 | [탈출](https://www.acmicpc.net/problem/3055) | `시뮬레이션`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3055.java) |
-| 9 | boj | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `순열`, `백트래킹` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_15666.java) |
-| 9 | boj | 1199 | [오일러 회로](https://www.acmicpc.net/problem/1199) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1199.java) |
-| 10 | boj | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | `시뮬레이션` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14719.java) |
-| 10 | boj | 24512 | [BTSP](https://www.acmicpc.net/problem/24512) | `그래프`, `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_24512.java) |
-| 11 | boj | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2206.java) |
-| 12 | boj | 1175 | [배달](https://www.acmicpc.net/problem/1175) | `완전 탐색` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1175.java) |
+| 4 | boj | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3085.cpp) |
+| 5 | boj | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | `Greedy` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11047.cpp) |
+| 5 | boj | 2531 | [회전 초밥](https://www.acmicpc.net/problem/2531) | `Map` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2531.cpp) |
+| 6 | boj | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | `Divide-and-conquer` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10830.java) |
+| 6 | boj | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | `BF` | [💡.cpp](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.cpp)/[.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7562.java) |
+| 7 | boj | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | `Graph` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5639.java) |
+| 7 | boj | 18222 | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | `Divide-and-conquer` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_18222.java) |
+| 8 | boj | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14502.java) |
+| 8 | boj | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | `Graph`, `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_11725.java) |
+| 9 | boj | 3055 | [탈출](https://www.acmicpc.net/problem/3055) | `Simulation`, `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3055.java) |
+| 9 | boj | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | `Permutation`, `Backtracking` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_15666.java) |
+| 9 | boj | 1199 | [오일러 회로](https://www.acmicpc.net/problem/1199) | `Graph`, `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1199.java) |
+| 10 | boj | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | `Simulation` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_14719.java) |
+| 10 | boj | 24512 | [BTSP](https://www.acmicpc.net/problem/24512) | `Graph`, `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_24512.java) |
+| 11 | boj | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2206.java) |
+| 12 | boj | 1175 | [배달](https://www.acmicpc.net/problem/1175) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1175.java) |
 | 12 | boj | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_12865.java) |
-| 12 | programmers | | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | `구현` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_신고결과받기.java) |
-| 13 | boj | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | `메모이제이션`, `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1520.java) |
+| 12 | programmers | | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_신고결과받기.java) |
+| 13 | boj | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | `Memoizatino`, `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1520.java) |
 | 13 | boj | 2515 | [전시장](https://www.acmicpc.net/problem/2515) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2515.java) |
+| 14 | boj | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | `Sliding Window` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2096.java) |
+| 14 | boj | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1194.java) |
+| 14 | boj | 1275 | [커피숍2](https://www.acmicpc.net/problem/1275) | `Segment Tree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1275.java) |
+| 14 | boj | 10999 | [구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | `Segment Tree`, `Lazy Propagation` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10999.java) |

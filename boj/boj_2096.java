@@ -38,4 +38,5 @@ public class Main {
 		}
 		
 		System.out.println(Math.max(maxA, Math.max(maxB, maxC)) + " " + Math.min(minA, Math.min(minB, minC)));
-	
+	}
+}

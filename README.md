@@ -26,7 +26,7 @@
 | 12 | programmers | | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_신고결과받기.java) |
 | 13 | boj | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | `Memoizatino`, `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1520.java) |
 | 13 | boj | 2515 | [전시장](https://www.acmicpc.net/problem/2515) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2515.java) |
-| 14 | boj | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | `Sliding Window` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2096.java) |
+| 14 | boj | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | `Sliding Window`, `Greedy` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2096.java) |
 | 14 | boj | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1194.java) |
 | 14 | boj | 1275 | [커피숍2](https://www.acmicpc.net/problem/1275) | `Segment Tree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1275.java) |
 | 14 | boj | 10999 | [구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | `Segment Tree`, `Lazy Propagation` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10999.java) |

@@ -30,3 +30,6 @@
 | 14 | boj | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1194.java) |
 | 14 | boj | 1275 | [커피숍2](https://www.acmicpc.net/problem/1275) | `Segment Tree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1275.java) |
 | 14 | boj | 10999 | [구간 합 구하기 2](https://www.acmicpc.net/problem/10999) | `Segment Tree`, `Lazy Propagation` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10999.java) |
+| 15 | boj | 17471 | [게리맨더링](https://www.acmicpc.net/problem/17471) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17471.java) |
+| 15 | boj | 2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2098.java) |
+| 15 | boj | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | `DP`, `BitMasking` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1562.java) |

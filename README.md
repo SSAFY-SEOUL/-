@@ -33,3 +33,5 @@
 | 15 | boj | 17471 | [게리맨더링](https://www.acmicpc.net/problem/17471) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17471.java) |
 | 15 | boj | 2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2098.java) |
 | 15 | boj | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | `DP`, `BitMasking` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1562.java) |
+| 16 | boj | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17070.java) |
+| 16 | boj | 20188 | [등산 마니아](https://www.acmicpc.net/problem/20188) | `Combination`, `LCA` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_20188.java) |

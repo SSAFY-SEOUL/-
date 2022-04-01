@@ -35,3 +35,10 @@
 | 15 | boj | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | `DP`, `BitMasking` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1562.java) |
 | 16 | boj | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17070.java) |
 | 16 | boj | 20188 | [등산 마니아](https://www.acmicpc.net/problem/20188) | `Combination`, `LCA` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_20188.java) |
+| 17 | boj | 1113 | [수영장 만들기](https://www.acmicpc.net/problem/1113) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1113.java) |
+| 17 | boj | 10282 | [해킹](https://www.acmicpc.net/problem/10282) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10282.java) |
+| 17 | programmers | | [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | ` ` | |
+| 18 | boj | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | `Topological Sort` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1516.java) |
+| 18 | boj | 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1854.java) |
+| 19 | boj | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | ` ` |  |
+| 19 | boj | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | `Segement Tree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2357.java) |

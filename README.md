@@ -40,5 +40,5 @@
 | 17 | programmers | | [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | ` ` | |
 | 18 | boj | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516) | `Topological Sort` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1516.java) |
 | 18 | boj | 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1854.java) |
-| 19 | boj | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | ` ` |  |
+| 19 | boj | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | `Simulation` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5373.java) |
 | 19 | boj | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | `Segement Tree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2357.java) |

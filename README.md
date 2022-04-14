@@ -47,3 +47,5 @@
 | 21 | boj | 2610 | [회의준비](https://www.acmicpc.net/problem/2610) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2610.java) |
 | 21 | boj | 17472 | [다리 만들기2](https://www.acmicpc.net/problem/17472) | `BF`, `MST` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17472.java) |
 | 21 | boj | 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | `LCA` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3176.java) |
+| 22 | boj | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | `BF`, `Memoization` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1937.java) |
+| 22 | boj | 1255 | [전쟁 - 선전포고](https://www.acmicpc.net/problem/1255) | `Dijkstra`, `Geometric` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1255.java) |

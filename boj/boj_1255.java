@@ -1,3 +1,5 @@
+package com.ssafy.boj;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -54,7 +56,6 @@ public class Main {
 		double maxTime = 0;
 		double distance = 0;
 		double time = 0;
-		
 		for (int i = 0; i < N; ++i) {
 			distance = doDijkstra(start[i]);
 			time = distance / people[i].v;

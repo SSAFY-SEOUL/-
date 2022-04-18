@@ -49,3 +49,6 @@
 | 21 | boj | 3176 | [도로 네트워크](https://www.acmicpc.net/problem/3176) | `LCA` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3176.java) |
 | 22 | boj | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | `BF`, `Memoization` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1937.java) |
 | 22 | boj | 1255 | [전쟁 - 선전포고](https://www.acmicpc.net/problem/1255) | `Dijkstra`, `Geometric` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1255.java) |
+| 23 | boj | 2461 | [대표 선수](https://www.acmicpc.net/problem/2461) | `Sliding Window`, `Two Pointer` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2461.java) |
+| 23 | programmers | | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | `Dijkstra`, `Geometric` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_추석트래픽.java) |
+| 23 | programmers | | [[카카오 인턴] 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | `Dijkstra`, `Geometric` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_보석쇼핑.java) |

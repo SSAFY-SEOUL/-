@@ -52,3 +52,5 @@
 | 23 | boj | 2461 | [대표 선수](https://www.acmicpc.net/problem/2461) | `Sliding Window`, `Two Pointer` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2461.java) |
 | 23 | programmers | | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | `Implements` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_추석트래픽.java) |
 | 23 | programmers | | [[카카오 인턴] 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | `Implements` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_보석쇼핑.java) |
+| 24 | boj | 7432 | [디스크 트리](https://www.acmicpc.net/problem/7432) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7432.java) |
+| 24 | boj | 5670 | [휴대폰 자판](https://www.acmicpc.net/problem/5670) | `TRIE` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5670.java) |

@@ -24,7 +24,7 @@
 | 12 | boj | 1175 | [배달](https://www.acmicpc.net/problem/1175) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1175.java) |
 | 12 | boj | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_12865.java) |
 | 12 | programmers | | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_신고결과받기.java) |
-| 13 | boj | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | `Memoizatino`, `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1520.java) |
+| 13 | boj | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | `Memoization`, `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1520.java) |
 | 13 | boj | 2515 | [전시장](https://www.acmicpc.net/problem/2515) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2515.java) |
 | 14 | boj | 2096 | [내려가기](https://www.acmicpc.net/problem/2096) | `Sliding Window`, `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2096.java) |
 | 14 | boj | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1194.java) |

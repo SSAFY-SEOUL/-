@@ -54,3 +54,6 @@
 | 23 | programmers | | [[카카오 인턴] 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | `Implements` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_보석쇼핑.java) |
 | 24 | boj | 7432 | [디스크 트리](https://www.acmicpc.net/problem/7432) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7432.java) |
 | 24 | boj | 5670 | [휴대폰 자판](https://www.acmicpc.net/problem/5670) | `TRIE` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5670.java) |
+| 25 | boj | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | `KMP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_16916.java) |
+| 25 | programmers | | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | `Linked List` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_표편집.java) |
+| 26 | programmers | | [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) | `Dijkstra?` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_미로탈출.java) |

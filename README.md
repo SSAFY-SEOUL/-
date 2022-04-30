@@ -59,3 +59,6 @@
 | 25 | programmers | | [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_미로탈출.java) |
 | 26 | boj | 13907 | [세금](https://www.acmicpc.net/problem/13907) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_13907.java) |
 | 26 | programmers | | [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_양과늑대.java) |
+| 27 | boj | 23807 | [두 단계 최단 경로3](https://www.acmicpc.net/problem/23807) | `dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_23807.java) |
+| 27 | boj | 10265 | [MT](https://www.acmicpc.net/problem/10265) | `SCC`, `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10265.java) |
+| 27 | programmers | | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | `Topological Sort`, `BF` | [💡위상정렬.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_동굴탐험_위상정렬.java) [💡BFS.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_동굴탐험_BFS.java)|

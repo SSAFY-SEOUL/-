@@ -62,3 +62,8 @@
 | 27 | boj | 23807 | [두 단계 최단 경로3](https://www.acmicpc.net/problem/23807) | `dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_23807.java) |
 | 27 | boj | 10265 | [MT](https://www.acmicpc.net/problem/10265) | `SCC`, `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_10265.java) |
 | 27 | programmers | | [동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260) | `Topological Sort`, `BF` | [💡위상정렬.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_동굴탐험_위상정렬.java) [💡BFS.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_동굴탐험_BFS.java)|
+| 28 | boj | 2957 | [이진탐색트리](https://www.acmicpc.net/problem/2957) | `BST`, `Data Structure` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2957.java) |
+| 28 | programmers | | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_경주로건설.java)|
+| 29 | boj | 3015 | [오아시스 재결합](https://www.acmicpc.net/problem/3015) | `Data Structure` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3015.java) |
+| 29 | boj | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | `Two Pointer`, `Prime Number` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1644.java) |
+| 29 | programmers | | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | `BFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_가장먼노드.java)

@@ -1,20 +1,10 @@
-package com.ssafy.programmers;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
 class Solution {
-	
-	public static void main(String[] args) {
-		int n = 6;
-		int[][] edge = {{3, 6}, {4, 3}, {3, 2}, {1, 3}, {1, 2}, {2, 4}, {5, 2}};
-		
-		System.out.println(solution(n, edge));
-	}
-	
-	private static class State {
+    private static class State {
 		int node, step;
 
 		public State(int node, int step) {

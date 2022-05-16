@@ -69,3 +69,6 @@
 | 29 | programmers | | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | `BFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_가장먼노드.java)
 | 30 | boj | 2056 | [작업](https://www.acmicpc.net/problem/2056) | `Topological Sort`, `DP` | [💡위상정렬.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2056_위상정렬.java), [💡DP.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2056_DP.java) |
 | 30 | boj | 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_12100.java) |
+| 31 | boj | 2532 | [먹이사슬](https://www.acmicpc.net/problem/2532) | `LCS`, `Binary Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2532.java) |
+| 31 | programmers | | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_자물쇠와열쇠.java)
+| 31 | programmers | | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_도둑질.java)

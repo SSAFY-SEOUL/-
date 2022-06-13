@@ -72,6 +72,14 @@
 | 31 | boj | 2532 | [먹이사슬](https://www.acmicpc.net/problem/2532) | `LCS`, `Binary Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2532.java) |
 | 31 | programmers | | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | `BF` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_자물쇠와열쇠.java)
 | 31 | programmers | | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_도둑질.java)
-| 32 | programmers | | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | `DP` | |
+| 32 | programmers | | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) | `Parametric Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_징검다리_건너기.java) |
 | 32 | boj | 1725 | [히스토그램](https://www.acmicpc.net/problem/1725) | `SegmentTree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1725.java) |
 | 32 | boj | 2243 | [사탕상자](https://www.acmicpc.net/problem/2243) | `SegmentTree` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2243.java) |
+| 33 | boj | 16468 | [크리스마스 트리 꾸미기](https://www.acmicpc.net/problem/16468) | ` ` | |
+| 33 | boj | 2233 | [사과나무](https://www.acmicpc.net/problem/2233) | `LCA` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2233.java) |
+| 34 | boj | 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_17136.java) |
+| 34 | boj | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1799.java) |
+| 34 | boj | 16566 | [카드 게임](https://www.acmicpc.net/problem/16566) | `Data Structure`, `Binary Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_16566.java) |
+| 35 | boj | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | `Parametric Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2110.java) |
+| 35 | boj | 13397 | [구간 나누기 2](https://www.acmicpc.net/problem/13397) | `Parametric Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_13397.java) |
+| 35 | boj | 7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | ` ` | |

@@ -83,3 +83,8 @@
 | 35 | boj | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | `Parametric Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2110.java) |
 | 35 | boj | 13397 | [구간 나누기 2](https://www.acmicpc.net/problem/13397) | `Parametric Search` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_13397.java) |
 | 35 | boj | 7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | ` ` | |
+| 36 | boj | 1981 | [배열에서 이동](https://www.acmicpc.net/problem/1981) | ` ` | |
+| 36 | boj | 2536 | [버스 갈아타기](https://www.acmicpc.net/problem/2536) | ` ` | |
+| 37 | programmers | | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_부족한_금액_계산하기.java) |
+| 37 | programmers | | [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_퍼즐_조각_채우기.java) |
+| 37 | boj | 3687 | [성냥개비](https://www.acmicpc.net/problem/3687) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3687.java) |

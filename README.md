@@ -88,3 +88,5 @@
 | 37 | programmers | | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_부족한_금액_계산하기.java) |
 | 37 | programmers | | [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021) | `Implement` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_퍼즐_조각_채우기.java) |
 | 37 | boj | 3687 | [성냥개비](https://www.acmicpc.net/problem/3687) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3687.java) |
+| 38 | boj | 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | `Union-Find` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1976.java) |
+| 38 | boj | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_9466.java) |

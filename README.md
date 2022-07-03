@@ -53,7 +53,7 @@
 | 23 | programmers | | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | `Implements` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_추석트래픽.java) |
 | 23 | programmers | | [[카카오 인턴] 보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | `Implements` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_보석쇼핑.java) |
 | 24 | boj | 7432 | [디스크 트리](https://www.acmicpc.net/problem/7432) | `DFS` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_7432.java) |
-| 24 | boj | 5670 | [휴대폰 자판](https://www.acmicpc.net/problem/5670) | `TRIE` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5670.java) |
+| 24 | boj | 5670 | [휴대폰 자판](https://www.acmicpc.net/problem/5670) | `TRI` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_5670.java) |
 | 25 | boj | 16916 | [부분 문자열](https://www.acmicpc.net/problem/16916) | `KMP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_16916.java) |
 | 25 | programmers | | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) | `Linked List` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_표편집.java) |
 | 25 | programmers | | [미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_미로탈출.java) |
@@ -93,3 +93,8 @@
 | 39 | boj | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | `Recursive` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2448.java) |
 | 39 | boj | 2015 | [수들의 합 4](https://www.acmicpc.net/problem/2015) | `Prefix Sum` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_2015.java) |
 | 39 | programmers | | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | ` ` | |
+| 40 | boj | 1615 | [교차개수세기](https://www.acmicpc.net/problem/1615) | ` ` | |
+| 40 | boj | 20303 | [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | ` ` | |
+| 41 | boj | 16500 | [문자열 판별](https://www.acmicpc.net/problem/16500) | `DP` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_16500.java) |
+| 41 | boj | 3078 | [좋은 친구](https://www.acmicpc.net/problem/3078) | `Sliding Window` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3078.java) |
+| 41 | programmers | | [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | `Prefix Sum` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_파괴되지_않은_건물.java) |

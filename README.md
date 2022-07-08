@@ -99,4 +99,4 @@
 | 41 | boj | 3078 | [좋은 친구](https://www.acmicpc.net/problem/3078) | `Sliding Window` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_3078.java) |
 | 41 | programmers | | [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | `Prefix Sum` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/programmers/programmers_파괴되지_않은_건물.java) |
 | 42 | boj | 1865 | [웜홀](https://www.acmicpc.net/problem/1865) | `Bellman-Ford` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1865.java) |
-| 42 | boj | 1238 | [좋은 친구](https://www.acmicpc.net/problem/1238) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1238.java) |
+| 42 | boj | 1238 | [파티](https://www.acmicpc.net/problem/1238) | `Dijkstra` | [💡.java](https://github.com/SSAFY-SEOUL/KimJeKwan/blob/master/boj/boj_1238.java) |
